@@ -1,2 +1,2 @@
 # GitHubTaskiCymurghs
-Java dilinde oluşturulan bir "for" döngüsü kodu.
+Cymurghs GitHub taski için oluşturulan bir repository.
